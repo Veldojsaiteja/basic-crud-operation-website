@@ -1,0 +1,53 @@
+body{
+	background-image: url("bgimage1.jpg");
+	background-size: cover;
+}
+/*.outside img{
+	width: 30%;
+	height: auto;
+	margin-top: 100px;
+	border-radius: 50px;
+	opacity: 0.85;
+}
+.outside .inside h1{
+	position: relative;
+	margin-bottom: 40px;
+	height: 20px;
+	z-index: 10;
+}*/
+.outside{
+	position: relative;
+	margin-bottom: 20px;
+	width: 400px;
+	height:340px;
+	border-radius: 25px;
+	margin: 150px;
+	align-items: center;
+	opacity:0.85;
+	background-image: url('sucessful complete gif.gif');
+	background-size: contain;
+	align-content: center;
+	color: rgb(0,255,0);
+	//padding-top: 1px;
+	font-size: 25px;
+	font-weight: 40px;
+	font-family: 'Quicksand', sans-serif;
+}
+.in{
+	padding-top : 220px;
+}
+.in a{
+	color:blue;
+	font-family: 'Quicksand', sans-serif;
+	color:#3aaaff;
+	
+}
+/*.inside{
+	position: relative;
+	margin-top: -40px;
+	margin-left: 40px;
+	width: 120px;
+	height: 120px;
+	color: yellow;
+	
+}*/
